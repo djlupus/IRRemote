@@ -1,0 +1,20 @@
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Form1.resources
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.exe
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.pdb
+C:\Users\michael\Documents\Visual Studio 2010\Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.exe
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.pdb
+C:\Users\mharrison\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.exe
+C:\Users\mharrison\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.pdb
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Form1.resources
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.write.1.tlog
