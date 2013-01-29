@@ -18,3 +18,10 @@ C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl
 C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Properties.Resources.resources
 C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.read.1.tlog
 C:\Users\michael\Dropbox\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.exe
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.pdb
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Form1.resources
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\mharrison\Dropbox\IR Remote Project\RemoteControl\RemoteControl\obj\x86\Debug\ResGen.write.1.tlog
